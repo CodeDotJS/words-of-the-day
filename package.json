@@ -1,11 +1,11 @@
 {
-  "name": "worday-api",
+  "name": "words-of-the-day",
   "version": "1.0.0",
-  "description": "Fetch word of the day from different sources!",
+  "description": "Get word of the day and meanings from the different sources.",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CodeDotJS/worday-api.git"
+    "url": "git+https://github.com/CodeDotJS/words-of-the-day.git"
   },
   "author": "Rishi Giri <rushforlinux@gmail.com> (rishigiri.com)",
   "scripts": {
@@ -42,8 +42,8 @@
     "esnext": true
   },
   "bugs": {
-    "url": "https://github.com/CodeDotJS/worday-api/issues"
+    "url": "https://github.com/CodeDotJS/words-of-the-day/issues"
   },
-  "homepage": "https://github.com/CodeDotJS/worday-api#readme",
+  "homepage": "https://github.com/CodeDotJS/words-of-the-day#readme",
   "main": "index.js"
 }
