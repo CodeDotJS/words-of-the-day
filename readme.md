@@ -26,12 +26,12 @@ wordOfTheDay.wordThink().then(data => {
    */
 });
 
-wordOfTheDay.merrimWebster().then(data => {
+wordOfTheDay.merriamWebster().then(data => {
   console.log(data);
   // {data: information}
 });
 
-wordOfTheDay.dictionarWord().then(data => {
+wordOfTheDay.dictionaryWord().then(data => {
   console.log(data);
   // {data: information}
 });
